@@ -20,3 +20,6 @@ TRAVEL INC. is a cli application built with free public API's from the API provi
 ### Output : 
 ![image](https://user-images.githubusercontent.com/103417697/196385197-bca70f4b-eaa3-4739-aafe-6ea4b8dc7924.png)
 
+## Todo :
+
+- [] Add API for tourist attractions
