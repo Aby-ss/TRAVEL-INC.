@@ -22,4 +22,4 @@ TRAVEL INC. is a cli application built with free public API's from the API provi
 
 ## Todo :
 
-- [] Add API for tourist attractions
+- [ ] Add API for tourist attractions
